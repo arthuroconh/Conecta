@@ -39,8 +39,7 @@
                 type:'POST', 
                 data:term, 
                 dataType:'json', 
-                error:function(jqXHR,text_status,strError){ 
-                alert("no connection");}, 
+                error:function(jqXHR,text_status,strError){}, 
                 success:function(data){ 
                 $("#result").html("<img width='100px' src='http://desarrollotricolor.com.ve/tclima/productos/"+data+"'>");  
                 } 

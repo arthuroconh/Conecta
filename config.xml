@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Conecta al carro</name>
+    <name>Traer de BD</name>
     <description>
-        App para conectar al carro de compras
+        Traer de base de datos
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         Arthurillo
